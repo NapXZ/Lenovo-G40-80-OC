@@ -18,7 +18,7 @@
 - Keyboard
 # Not Work!!
 - Wifi&Bluetooth (Replacement is the best because not support!!)
-- Card Reader!
+- Card Reader
 # Thank You
 - Maldon For Olarilla EFI
 - Opencore
