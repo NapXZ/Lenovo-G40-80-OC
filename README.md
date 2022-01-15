@@ -19,5 +19,8 @@
 # Not Work!!
 - Wifi&Bluetooth (Replacement is the best because not support!!)
 - Card Reader!
+# Thank You
+- Maldon For Olarilla EFI
+- Opencore
 # Screenshot
 ![Screen Shot 2565-01-16 at 00 32 24](https://user-images.githubusercontent.com/83513988/149631737-0097803d-0a9a-4cfc-b90e-7cf525518675.png)
