@@ -9,7 +9,7 @@
 - Wifi&Bluetooth : Intel AC-3160 (Replacement is the best!!!)
 
 # Work!!!
-Volumes,Brightness Keys
+- Volumes,Brightness Keys
 - Touchpad
 - USB
 - HDMI,VGA
