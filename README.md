@@ -17,4 +17,5 @@ CD Drive
 Keyboard
 # Not Work!!
 Wifi&Bluetooth (Replacement is the best because not support!!)
-Card Reader
+Card Reader!
+[Uploading Screen Shot 2565-01-16 at 00.32.24.png…]()
