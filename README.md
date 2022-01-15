@@ -1,7 +1,7 @@
-# Lenovo-G40-80-Hackintorsh-With-Opencore-0.7.8
+# Lenovo G40-80 Hackintorsh With Opencore 0.7.8
 - Model: Lenovo G40-80
 - Bios version: B0CNA0WW
-- CPU: i3 4030U, HD 4400 Graphics
+- CPU: i3 4030U,HD 4400 Graphics
 - RAM: 8GB
 - Hard drive: 500GB SATA HDD (SSD is the Best!!)
 - Audio: Conexant CX20752
