@@ -25,4 +25,5 @@
 # Opencore Configurator For This Opencore
 [Click Here](https://github.com/NapXZ/Lenovo-G40-80-Hackintorsh-With-Opencore-0.7.8/files/7875519/OpenCore.Configurator.zip)
 # Screenshot
-![Screen Shot 2565-01-16 at 00 32 24](https://user-images.githubusercontent.com/83513988/149631737-0097803d-0a9a-4cfc-b90e-7cf525518675.png)
+![Screen Shot 2566-12-06 at 09 34 23](https://github.com/NapXZ/Lenovo-G40-80-OC/assets/83513988/045a6930-1eb3-4936-8e7e-e2ef30860e94)
+
